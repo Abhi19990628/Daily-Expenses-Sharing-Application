@@ -41,8 +41,6 @@ Create a requirements.txt file in the root directory with the following content:
 
 Django>=3.2,<4.0
 djangorestframework>=3.12.0,<4.0
-
-
 4. **Apply Migrations**
 python manage.py migrate
 
